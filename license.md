@@ -238,4 +238,4 @@ Troubleshooting.
 | A setup question | Read the Quick Start above |
 | A feature request | Open an issue with the `enhancement` label |
 
-<p align="center"><sub>among-us-anchor · Updated 2026-10-27 · Shared under the MIT License</sub></p>
+<p align="center"><sub>among-us-anchor · Updated 2026-10-28 · Shared under the MIT License</sub></p>
